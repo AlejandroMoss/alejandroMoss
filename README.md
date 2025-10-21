@@ -1,6 +1,13 @@
 ## 👋 ¡Hey! I'm Alejandro Mosquera
+<br>
+<p align="center" width="60" height="60">
+    <strong>I am a software engineer passionate about backend development</strong>
+</p>
+<br>
+ 
+ ⭐️ I like challenges and always being in constant learning.
+<br><br>
 
- ## I am a software engineer passionate about backend development, I like challenges and always being in constant learning.
 
 ## Connect with me:
 
@@ -18,7 +25,7 @@
 </a>
 
 ## Languages and Tools:
-
+<br>
 <a href="" target="_blank">
 <img width="50" height="50" src="https://img.icons8.com/color/50/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
 </a>
@@ -40,3 +47,7 @@
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c07249ad-e1b4-483f-8bd8-03c294a1b778" />
 
 </a>
+
+
+
+
